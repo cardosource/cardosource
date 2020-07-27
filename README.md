@@ -1,5 +1,5 @@
 ### Ola 🖖️ !
-_Eis aqui algums projetos pessoais e trechos de códigos comerciais. Todos possuem **dual-license** parte do código livre outra privada ._
+_Eis aqui algums projetos pessoais e trechos de códigos comerciais. Todos possuem **dual-license** parte do código livre outra privada :octocat: ._
 
 
 
@@ -10,4 +10,3 @@ LINGUAGEM EM USO:
 - 🐧️ shell script ...
 - 💻️ c
 
-< 🎧️ 🎮️ 🤓️ 🐶️ 😼️ />
