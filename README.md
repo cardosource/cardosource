@@ -10,4 +10,4 @@ LINGUAGEM EM USO:
 - 🐧️ shell script ...
 - 💻️ c
 
-< faço códigos 🤓️ e crio cervejas 🍺️>
+< faço códigos 🤓️ e crio cervejas 🍺️/>
