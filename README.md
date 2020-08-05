@@ -1,6 +1,6 @@
 ### Ola 🖖️ !
 
-. Hokage tempo integral.
+. Hokage.
 
 . Caçador de caçadores de exterminadores.
 
