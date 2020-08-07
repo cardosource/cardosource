@@ -10,8 +10,6 @@
 _Eis aqui algums projetos pessoais e trechos de códigos comerciais. Todos possuem **dual-license** parte do código livre outra privada :octocat: ._
 
 
-hokage
-
 
 
 LINGUAGEM EM USO:
