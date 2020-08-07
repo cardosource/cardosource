@@ -4,6 +4,8 @@
 
 . Caçador de caçadores de exterminadores.
 
+. Méstre Pokémon.
+
 
 _Eis aqui algums projetos pessoais e trechos de códigos comerciais. Todos possuem **dual-license** parte do código livre outra privada :octocat: ._
 
