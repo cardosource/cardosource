@@ -12,10 +12,6 @@ LINGUAGEM EM USO:
 - 💻️ c
 
 
-👽️ : initial
-
-#machineLearning 🧠️ 
-
-#DataScience 👻️
+👽️ 🚀️  🛸️
 
 
