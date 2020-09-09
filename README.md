@@ -11,3 +11,11 @@ LINGUAGEM EM USO:
 - 🐧️ shell script ...
 - 💻️ c
 
+
+👽️ : initial
+
+#machineLearning 🧠️ 
+
+#DataScience 👻️
+
+
