@@ -16,6 +16,7 @@ Developer Opensource (_backend_):
    - Automatização de rotinas.
    - App's (Kivy)
    - Web (Django)
+   -  API's RESTful, Django Rest Framework
    
 - _java_  
   ( **2012**... )
