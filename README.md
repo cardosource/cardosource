@@ -13,8 +13,7 @@ Developer Opensource (_backend_):
 - _python_  
    ( **2016**... )          
    - Artificial Intelligence as a Service (AIaaS)
-   - Kivy
-   - Django LTS
+   - Django Web Framework (LTS)
    - API's RESTful, Django Rest Framework
    
 - _java_  
