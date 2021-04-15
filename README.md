@@ -12,8 +12,7 @@ Developer Opensource (_backend_):
 
 - _python_  
    ( **2016**... )          
-   - machine learning (entusiasta)
-   - Automatização de rotinas.
+   - Artificial Intelligence as a Service (AIaaS)
    - Kivy
    - Django LTS
    - API's RESTful, Django Rest Framework
