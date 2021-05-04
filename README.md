@@ -18,14 +18,17 @@ Developer Opensource (_backend_):
    
 - _java_  
   ( **2012**... )
-  - java 8...
-  - Android (Flutter)
+  - java 8..., intermediário
+ 
 
 - _linux_  
  ( **2012**... )
    - Debian
    
-  
+ - _dart_  
+  ( **2021**... )
+  - Dart, intermediário
+  - 
 ---
 
  _`[News]`_        
