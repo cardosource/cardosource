@@ -28,7 +28,6 @@ Developer Opensource (_backend_):
  - _dart_  
   ( **2021**... )
   - Dart, intermediário
-  - 
 ---
 
  _`[News]`_        
