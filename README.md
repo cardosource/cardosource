@@ -10,28 +10,7 @@
 
 Developer Opensource (_backend_):
 
-- _python_  
-   ( **2016**... )          
-   - Artificial Intelligence as a Service (AIaaS)
-   - Django Web Framework (LTS)
-   - API's RESTful, Django Rest Framework
-   
-- _java_  
-  ( **2012**... )
-  - java 8..., intermediário
- 
 
-- _linux_  
- ( **2012**... )
-   - Debian
-   
- - _dart_  
-  ( **2021**... )
-  - Dart, intermediário
-
-- _javascript_  
-  ( **2021**... )
-   - JavaScript, intermediário
   
   
   
