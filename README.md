@@ -1,27 +1,19 @@
-### hello world  🖖️
 
-<hr />
-
-# _Jeferson Cardoso_
 
 ### ____skills____
 
-![python](https://github.com/git-cardoso/pr0m3theus.github.io/blob/master/imgs/skill.png)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=appveyor=linux&logoColor=white&color=2bbc8a)         
+![](https://img.shields.io/badge/Developer-Python-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Developer-Django-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Developer-Django/REST-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)    
+![](https://img.shields.io/badge/Developer-Flutter-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)   
+![](https://img.shields.io/badge/Developer-Javascript-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)
+
+
+
+
 
 Developer Opensource (_backend_):
-
-
-  
-  
-  
----
-
- _`[News]`_        
-Arduino   🆙️      
-Wordpress   🆙️  
-Blender (animações 2D) 🆙️ 
- 
----
 
 
 
