@@ -1,7 +1,3 @@
-
-
-
-
 <p>
   <img  align=right src="https://github.com/git-cardoso/pr0m3theus.github.io/blob/master/imgs/coffeTome.gif" width="350" />
 </p>
