@@ -7,13 +7,13 @@ meu nome é jeferson, atualmente atuo como programador backend e gosto de estuda
 
 ### ____skills____
     
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=appveyor=linux&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Developer-Python-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Developer-Django-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Developer-Django/REST-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)    
-![](https://img.shields.io/badge/Developer-Flutter-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)   
-![](https://img.shields.io/badge/Developer-Javascript-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Linux-Debian-informational?style=for-the-badge&logo=appveyor=linux&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Python-3.9.5-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Django-3.2.4(LTS)-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Django_Rest_Framework-3.12.4-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)    
+![](https://img.shields.io/badge/Dart/Flutter-2.12.2-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)   
+![](https://img.shields.io/badge/Javascript-😜️-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)
+       
 #   
 
 Developer Opensource (_backend_):
