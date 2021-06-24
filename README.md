@@ -7,16 +7,21 @@ meu nome é jeferson, atualmente atuo como programador backend e gosto de estuda
 
 ### ____skills____
     
-![](https://img.shields.io/badge/Linux-Debian-informational?style=for-the-badge&logo=appveyor=linux&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Python-3.9.5-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Django-3.2.4(LTS)-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Django_Rest_Framework-3.12.4-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)    
-![](https://img.shields.io/badge/Dart/Flutter-2.12.2-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)   
-![](https://img.shields.io/badge/Javascript-😜️-informational?style=for-the-badge&logo=appveyor=python&logoColor=white&color=2bbc8a)
-       
+    
+
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white") ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  
+![](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)   ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
+![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E") 
+
+![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)   ![](https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge)    
+
+
 #   
 
-Developer Opensource (_backend_):
+Developer Opensource (_backend_):  
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 
@@ -27,5 +32,6 @@ Developer Opensource (_backend_):
     Todos os projetos são Dual-licensing.  
       
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+
 
