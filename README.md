@@ -14,6 +14,8 @@ meu nome é jeferson, atualmente atuo como programador backend e gosto de estuda
 ![](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)   ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E") 
 
+![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+
 ![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)   ![](https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge)    
 
 
