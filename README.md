@@ -22,8 +22,13 @@ meu nome é jeferson, atualmente atuo como programador backend e gosto de estuda
 #   
 
 Developer Opensource (_backend_):  
-![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  
 
+
+
+[![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) ](https://www.buymeacoffee.com/coffee.cardoso)
+
+  
 
 
 
