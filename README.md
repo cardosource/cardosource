@@ -3,7 +3,7 @@
 </p>
 
 oi
-meu nome é jeferson, atualmente atuo como programador backend e gosto de estudar sobre novos recursos  nas linguagem de programação as quais conheço não sou bom em css e html mas conheço o básico.
+meu nome é jeferson, atualmente atuo como programador backend e estudo  alguns dos melhores conceitos de designer UI <strong> UX <strong/>
 
 ### ____skills____
     
