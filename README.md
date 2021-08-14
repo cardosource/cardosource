@@ -5,6 +5,9 @@
 oi meu nome é jeferson!    
 Atuo como programador backend e designer <strong> UI </strong> & <strong> UX </strong>.
 
+<strong> " </strong>     hi my name is jeferson!   
+   I work as a backend programmer and designer<strong> UI </strong> & <strong> UX </strong>. 
+   <strong> " </strong>
 ### ____skills____
     
     
