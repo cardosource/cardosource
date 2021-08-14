@@ -3,7 +3,7 @@
 </p>
 
 oi
-meu nome é jeferson, atuo como programador backend e estudo  alguns dos melhores conceitos de designer <strong> UI </strong> & <strong> UX </strong> aplicavel em software.
+meu nome é jeferson, atuo como programador backend e designer <strong> UI </strong> & <strong> UX </strong>.
 
 ### ____skills____
     
