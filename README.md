@@ -24,7 +24,7 @@ Atuo como programador backend e designer <strong> UI </strong> & <strong> UX </s
 
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
-![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)   ![](https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge)     
+![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)   ![](https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge)     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 #   
