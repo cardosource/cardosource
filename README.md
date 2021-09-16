@@ -24,7 +24,8 @@ Atuo como programador backend e designer <strong> UI </strong> & <strong> UX </s
 
 
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E")  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)   ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
