@@ -8,8 +8,9 @@ Atuo como programador backend e designer <strong> UI </strong> & <strong> UX </s
 <strong> " </strong>     Hi my name is jeferson!   
    I work as a backend programmer and designer<strong> UI </strong> & <strong> UX </strong>. 
    <strong> " </strong>
-   
-   <br/>
+
+
+<br/>
    <br/>
    <br/>
    <br/>
