@@ -1,11 +1,11 @@
 <p>
   <img  align=right src="https://github.com/git-cardoso/pr0m3theus.github.io/blob/master/imgs/coffeTome.gif" width="350" />
 </p>
-oi meu nome é jeferson!    
+Oi meu nome é jeferson!    
 
 Atuo como programador backend e designer <strong> UI </strong> & <strong> UX </strong>.
 
-<strong> " </strong>     hi my name is jeferson!   
+<strong> " </strong>     Hi my name is jeferson!   
    I work as a backend programmer and designer<strong> UI </strong> & <strong> UX </strong>. 
    <strong> " </strong>
 ### ____skills____
