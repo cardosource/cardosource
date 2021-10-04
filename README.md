@@ -1,5 +1,6 @@
 
 
+
 <p>
   <img  align=right src="https://github.com/git-cardoso/pr0m3theus.github.io/blob/master/imgs/coffeTome.gif" width="347" />
 </p>
@@ -17,3 +18,4 @@ Atuo como programador backend e designer <strong> UI </strong> & <strong> UX </s
 
 ![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)   ![](https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge)     ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://github-profile-trophy.vercel.app/?username=git-cardoso&title=Commit,Repositories,PullRequest,MultiLanguage&theme=alduin&margin-w=9)
+![](https://hit.yhype.me/github/profile?user_id=29387672)
