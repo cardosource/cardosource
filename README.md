@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=git-cardoso-username&label=PROFILE+VIEWS&style=flat-square&color=lightgrey)
 
 <p>
-  <img  align=right src="https://github.com/git-cardoso/pr0m3theus.github.io/blob/master/imgs/coffeTome.gif" width="347" />
+  <img  align=right src="https://c.tenor.com/re-mTjTLwIoAAAAd/zoro.gif" width="397" />
 </p>
 
 Pronouns: <strong>ele</strong>/<strong>dele</strong>   
