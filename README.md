@@ -7,7 +7,7 @@
 <p align="center">
     Vós procurareis dois pequeninos, Hobbit ? não desanimaste da jornada, nós	encontraremos  em Valfenda logo.
 </p>
-programador back-end  
+"programador back-end imerso na aprendizagem front-end afim de alcançar maestria full stack"
 
 
 
