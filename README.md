@@ -1,24 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=git-cardoso-username&label=PROFILE+VIEWS&style=flat-square&color=lightgrey)
 <hr/>
 <p align="center">
-    Saudações, o nobre viajante de tão distante, bem vindo (a) ao embaralhado github desde que vós vistes.
+  "programador back-end imerso na aprendizagem front-end afim de alcançar maestria full stack"
 </p>
 
-<p align="center">
-    Vós procurareis dois pequeninos, Hobbit ? não desanimaste da jornada, nós	encontraremos  em Valfenda logo.
-</p>
+
 <hr/>
-"programador back-end imerso na aprendizagem front-end afim de alcançar maestria full stack"          
+          
 
 <br/>
-<br/>
+
+
+##
+Interesses pessoais 
+
+* 🌱 Técnologias open source que auxilia a vida de portadores do autismo e limitações de mobilidade, mental e social.
+* 💪 Adquirir experiencia em novos desafios front-end.
+* 🤓️ melhorar e conhecer novas técnologias
+
+##
+Habilidade
    
    
-   
-   
-   
-   
-   
+<img  align=left src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="130"/>
    
    
 
@@ -27,4 +31,7 @@
 <br/>
 <br/>  
 <img  align=right src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="89"/>
-  
+ 
+ 
+ 
+
