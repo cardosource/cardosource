@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=git-cardoso-username&label=PROFILE+VIEWS&style=flat-square&color=lightgrey)
-
+<hr/>
 <p align="center">
     Saudações, o nobre viajante de tão distante, bem vindo (a) ao embaralhado github desde que vós vistes.
 </p>
