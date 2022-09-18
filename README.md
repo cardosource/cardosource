@@ -3,7 +3,7 @@
 <p align="center">
     Saudações, o nobre viajante de tão distante, bem vindo (a) ao embaralhado github desde que vós vistes.
 </p>
-
+<br/>
 <p align="center">
     Vós procurareis dois pequeninos, Hobbit ? não desanimaste da jornada, nós	encontraremos  em Valfenda logo.
 </p>
