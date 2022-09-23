@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=git-cardoso-username&label=PROFILE+VIEWS&style=flat-square&color=lightgrey)
 <hr/>
 <p align="center">
-  "programador back-end imerso na aprendizagem front-end afim de alcançar maestria full stack"
+  "Developer Open Source"
 </p>
 
 
@@ -11,15 +11,10 @@
 <br/>
 
 
-##
-Interesses pessoais 
 
-* 🌱 Técnologias open source que auxilia a vida de portadores do autismo e limitações de mobilidade, mental e social.
-* 💪 Adquirir experiencia em novos desafios front-end.
-* 🤓️ melhorar e conhecer novas técnologias
 
 ##
-Habilidade
+Skill
    
    
 <img  align=left src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="130"/>
