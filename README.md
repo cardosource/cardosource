@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=git-cardoso-username&label=PROFILE+VIEWS&style=flat-square&color=lightgrey)
+
 <hr/>
 <p align="center">
   "Developer Open Source"
