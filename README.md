@@ -1,7 +1,12 @@
-🧍🏻 pronouns: he/him
+👋🏻 Greetings!    
+Welcome to my repositories
+
+🧍🏻 **Pronouns** : he/him        
+🧑🏻‍💻 Open Source Developer       
+🍃 Looking for new challenges
 <hr/>
 <p align="center">
-  "Developer Open Source"
+  "Stack"
 </p>
 
 
