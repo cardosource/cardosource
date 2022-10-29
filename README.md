@@ -1,4 +1,4 @@
-**>>** pronouns: he/him
+🧍🏻 pronouns: he/him
 <hr/>
 <p align="center">
   "Developer Open Source"
