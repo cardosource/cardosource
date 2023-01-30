@@ -1,5 +1,12 @@
-# 💫 About Me:
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Greetings!    <br>Welcome to my repositories<br><br> **Pronouns** : he/him        <br> Open Source Developer       <br> Looking for new challenges<br>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Welcome to my repositories!
+
+## About me:
+- I am an open source developer 
+- Passion for creating and contributing to projects.
+- Pronouns: he/him
+- Always on the lookout for new and exciting challenges to tackle
+- Let's build something great together.
 
 
 ## 🌐 Socials:
