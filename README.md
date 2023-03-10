@@ -19,7 +19,9 @@
 - Always on the lookout for new and exciting challenges to tackle
 - Let's build something great together.
 
+I am an individual who believes in freedom and equality, tired of seeing power being concentrated in inefficient policies. As a crypto-anarchist, I see technology as a powerful tool to protect privacy and freedom.
 
+Furthermore, I am an LGBTQIA+ rights activist and fight against all forms of oppression and discrimination. With a punk mindset, I challenge established norms and seek radical changes.
 
 
 ## 🌐 Socials:
