@@ -25,7 +25,11 @@ Furthermore, I am an LGBTQIA+ rights activist and fight against all forms of opp
 
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cardosource) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://pt.stackoverflow.com/users/188739/stack-cardoso](https://pt.stackoverflow.com/users/188739/stack-cardoso)) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cardosource) 
+
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/188739/stack-cardoso) 
+
 
 
 
