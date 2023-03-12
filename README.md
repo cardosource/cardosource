@@ -15,7 +15,6 @@
 
 - I am an open source developer
 - Passion for creating and contributing to projects.
-- Pronouns: he/him
 - Always on the lookout for new and exciting challenges to tackle
 - Let's build something great together.
 
