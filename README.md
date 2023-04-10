@@ -26,9 +26,9 @@ Furthermore, I am an LGBTQIA+ rights activist and fight against all forms of opp
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cardosource) 
 
+ 
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/188739/stack-cardoso) 
-
+<a href="https://pt.stackoverflow.com/users/188739/stack-cardoso"><img src="https://pt.stackoverflow.com/users/flair/188739.png?theme=clear" width="208" height="58" alt="perfil de stack.cardoso em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de stack.cardoso em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
 
 
