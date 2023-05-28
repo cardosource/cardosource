@@ -28,7 +28,12 @@ Furthermore, I am an LGBTQIA+ rights activist and fight against all forms of opp
 
  
 
-<a href="https://pt.stackoverflow.com/users/188739/stack-cardoso"><img src="https://pt.stackoverflow.com/users/flair/188739.png?theme=clear" width="208" height="58" alt="perfil de stack.cardoso em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de stack.cardoso em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
+<div style="display: flex;">
+    <a href="https://pt.stackoverflow.com/users/188739/stack-cardoso">
+        <img src="https://pt.stackoverflow.com/users/flair/188739.png?theme=clear" width="208" height="58" alt="perfil de stack.cardoso em Stack Overflow em Português">
+    </a>
+  <a href="https://es.stackoverflow.com/users/329668/cardosource"><img src="https://es.stackoverflow.com/users/flair/329668.png" width="208" height="58" alt="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica" title="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica"></a>
+</div>
 
 
 
