@@ -62,10 +62,7 @@ Furthermore, I am an LGBTQIAPN+  <img   width="30" height="30" src="https://em-c
 
 
   
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardosource&theme=blue-green&hide_border=false" width="800" height="400">
-</p>
+ 
 
 
 ### ✍️ Random Dev Quote
