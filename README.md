@@ -18,13 +18,10 @@
 - Always on the lookout for new and exciting challenges to tackle
 - Let's build something great together.
 
-I am an individual who believes in freedom and equality, tired of seeing power being concentrated in inefficient policies. As a crypto-anarchist, I see technology as a powerful tool to protect privacy and freedom.
-
-Furthermore, I am an LGBTQIAPN+  <img   width="30" height="30" src="https://em-content.zobj.net/source/joypixels-animations/366/rainbow-flag_1f3f3-fe0f-200d-1f308.gif"> rights activist and fight against all forms of oppression and discrimination. With a punk mindset, I challenge established norms and seek radical changes.
 
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cardosource) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cardosource) 
 
  
 
