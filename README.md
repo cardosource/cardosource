@@ -1,24 +1,23 @@
 
  
 <div style="display: inline-block;">
-  <img align="left" width="80" height="80" src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" style="margin-right: 10px;">
+  <img align="left" width="205px" height="200px" src="https://avatars.githubusercontent.com/u/29387672?v=4">
+
   <p>&nbsp; </p>
 </div>
 
-<div style="display: inline-block;">
+
   
-  <p>Welcome to my repositories, my name is Cardoso.</p>
-</div>
-
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cardosource) 
-
- 
-
-<div style="display: flex;">
+  <p>Developer Open Source</p>
+  <p>I contribute to the open-source world by crafting robust backend solutions.</p>
+    <br/>
+   <br/>
+<hr/>
+<div style="display: flex;" >
     
-  <a href="https://es.stackoverflow.com/users/329668/cardosource"><img src="https://es.stackoverflow.com/users/flair/329668.png" width="208" height="58" alt="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica" title="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica"></a>
+  <a  href="https://es.stackoverflow.com/users/329668/cardosource"><img src="https://es.stackoverflow.com/users/flair/329668.png" width="208" height="58" alt="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica" title="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica"></a>
   
+
 </div>
 
 ## back end
