@@ -1,15 +1,15 @@
 
  
 <div style="display: inline-block;">
-  <img align="left" width="205px" height="200px" src="https://avatars.githubusercontent.com/u/29387672?v=4">
+  <img align="left" width="205px" height="200px" src="https://c.tenor.com/BZaWjKzYBLQAAAAd/tenor.gif">    
 
   <p>&nbsp; </p>
 </div>
 
 
   
-  <p>Developer Open Source</p>
-  <p>I contribute to the open-source world by crafting robust backend solutions.</p>
+  <p>&nbsp;&nbsp;Developer Open Source</p>
+  <p>&nbsp;&nbsp;I contribute to the open-source world by crafting robust backend solutions.</p>
     <br/>
    <br/>
 <hr/>
