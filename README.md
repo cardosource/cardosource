@@ -6,8 +6,6 @@
   <p>&nbsp; </p>
 </div>
 
-
-  
   <p>&nbsp;&nbsp;Developer Open Source</p>
   <p>&nbsp;&nbsp;I contribute to the open-source world by crafting robust backend solutions.</p>
     <br/>
