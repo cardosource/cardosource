@@ -1,5 +1,3 @@
-
- 
 <div style="display: inline-block;">
   <img align="left" width="205px" height="200px" src="https://c.tenor.com/BZaWjKzYBLQAAAAd/tenor.gif">    
 
