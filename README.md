@@ -25,10 +25,11 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)&nbsp;&nbsp;![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 __New Skills__                                              
-![Gitlab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)&nbsp;![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)   
-![Blockchain](https://img.shields.io/badge/Blockchain-0E76A8?style=for-the-badge&logo=blockchaindotcom&logoColor=white)&nbsp;![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)   
-![Pthreads](https://img.shields.io/badge/Pthreads-0078D4?style=for-the-badge&logo=c&logoColor=white)&nbsp;![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)                                      
-![Construct](https://img.shields.io/badge/Construct%203-00FFDA.svg?style=for-the-badge&logo=Construct-3&logoColor=white)&nbsp;![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)                     
-![SFML](https://img.shields.io/badge/SFML-8CC445.svg?style=for-the-badge&logo=SFML&logoColor=white)&nbsp;![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)  
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white)&nbsp;![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+| ![Gitlab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)          | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)                          |
+| :---------- |  :---------------------------------- |
+| ![Blockchain](https://img.shields.io/badge/Blockchain-0E76A8?style=for-the-badge&logo=blockchaindotcom&logoColor=white)        | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)                          |
+| ![Pthreads](https://img.shields.io/badge/Pthreads-0078D4?style=for-the-badge&logo=c&logoColor=white)         | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)                          |
+| ![SFML](https://img.shields.io/badge/SFML-8CC445.svg?style=for-the-badge&logo=SFML&logoColor=white)         | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)                          |
+|![Aseprite](https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white)         | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white)                          |
+ 
