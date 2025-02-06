@@ -8,6 +8,7 @@
 <hr/>
 <br/>
 <br/>
+<br/>
     
   <a  href="https://es.stackoverflow.com/users/329668/cardosource"><img src="https://es.stackoverflow.com/users/flair/329668.png" width="208" height="58" alt="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica" title="perfil para cardosource en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica"></a>                
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)                      
