@@ -85,8 +85,8 @@ Atualmente estudo matemática e desenvolvo soluções backend com foco em efici�
 ---
 
 ## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardsource&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardsource&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardosource&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardosource&layout=compact&theme=dark)
 
 ---
 
