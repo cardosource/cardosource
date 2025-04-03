@@ -17,28 +17,35 @@ Atualmente estudo matemática e desenvolvo soluções backend com foco em efici�
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
+```python
+tecnologias = [
+    [
+        {"py": "Python"},
+        {"cpp": "c++"},
+        {"c": "C"},
+        {"js": "JavaScript"},
+        {"ts": "TypeScript"},
+        {"sol": "Solidity"},
+        {"sh": "Shell Script"},
+        {"jq": "jQuery"}
+    ],
+    [
+        {"fig": "Figma"},
+        {"css": "CSS3"},
+        {"sass": "SASS"},
+        {"html": "HTML"}
+    ]
+]
 
-### 🔹 Linguagens  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+for lista in tecnologias:
+    for item in lista:
+        for chave, valor in item.items():
+            print(f'{chave}:{valor}')
+```
 
 ### ⚙️ Backend & Frameworks  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-### 🔌 Bibliotecas & Outros  
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+**Django** | **DjangoREST** | **RXJS**
 
 ---
 
