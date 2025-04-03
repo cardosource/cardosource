@@ -85,16 +85,4 @@ for lista in tecnologias:
 📌 **Minha presença no Stack Overflow:**  
 [![Perfil no Stack Overflow](https://es.stackoverflow.com/users/flair/329668.png)](https://es.stackoverflow.com/users/329668/cardosource)  
 
-📬 **Entre em contato:**  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
 
----
-
-## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardosource&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardosource&layout=compact&theme=dark)
-
----
-
-🚀 **Sempre aprendendo e construindo soluções eficientes!**  
