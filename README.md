@@ -7,7 +7,7 @@ Estudante matemática e desenvolvedor  backend. Tenho interesse por otimização
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## 🚀 Tecnologias 
 ```python
 tecnologias = [
     [
