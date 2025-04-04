@@ -1,13 +1,4 @@
-<div style="display: inline-block;">
-  <img align="left" width="205px" height="200px" src="https://c.tenor.com/BZaWjKzYBLQAAAAd/tenor.gif">    
-  <p>&nbsp;&nbsp;I contribute to the open-source world by crafting robust backend solutions.</p>
-</div>
 
-<br/>
-<br/>
-<br/>
-
-# 👋 Olá! Eu sou Jefferson Cardoso  
 ### 💻 Programador Backend | 📊 Estudante de Matemática | 🚀 Entusiasta Open Source  
 
 Atualmente estudo matemática e desenvolvo soluções backend com foco em eficiência e escalabilidade. Tenho interesse por otimização de algoritmos, estruturas de dados e arquitetura de software.  
