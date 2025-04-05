@@ -1,7 +1,7 @@
 
 ### 💻 Programador Backend | 📊 Estudante de Matemática | 🚀 Entusiasta Open Source  
 
-Estudante matemática e desenvolvedor  backend. Tenho interesse por otimização de algoritmos, estruturas de dados e arquitetura de software e a.i.  
+Estudante matemática e desenvolvedor  backend. otimização de algoritmos, estruturas de dados e arquitetura de software e a.i.  
 
 📌 **No meu tempo livre**, gosto de **programar jogos retrô** e criar artes em **pixel art**,  além de explorando novas linguagens de programação ! 🎮✨  
 
