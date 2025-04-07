@@ -45,21 +45,7 @@ for lista in tecnologias:
 🔹 **Programação Orientada a Objetos (OOP)**  
 🔹 **Programação Funcional**  
 🔹 **Princípios SOLID**  
-🔹 **Design Patterns (Factory, Singleton, Observer, etc.)**  
-
----
-
-## 🆕 Habilidades Recentes  
-
-| 🛠 Tecnologia | 🚀 Status |
-|--------------|----------|
-| ![Blockchain](https://img.shields.io/badge/Blockchain-0E76A8?style=for-the-badge&logo=blockchaindotcom&logoColor=white) | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white) |
-| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white) | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white) |
-| ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge) | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white) |
-| ![Pthreads](https://img.shields.io/badge/Pthreads-0078D4?style=for-the-badge&logo=c&logoColor=white) | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white) |
-| ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white) | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white) |
-| ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white) | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white) |
-| ![SFML](https://img.shields.io/badge/SFML-8CC445.svg?style=for-the-badge&logo=SFML&logoColor=white) | ![new](https://img.shields.io/badge/new-red?style=for-the-badge&logoColor=white) |
+🔹 **Design Patterns**  
 
 ---
 
