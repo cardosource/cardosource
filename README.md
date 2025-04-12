@@ -56,9 +56,8 @@ for lista in tecnologias:
 
 ---
 
-## 💬 Comunidade  
+📌 **Minha presença no Stack Overflow:**        
 
-📌 **Minha presença no Stack Overflow:**  
-[![Perfil no Stack Overflow](https://es.stackoverflow.com/users/flair/329668.png)](https://es.stackoverflow.com/users/329668/cardosource)  
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/329668/cardosource)
 
 
