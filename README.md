@@ -43,7 +43,9 @@ for lista in tecnologias:
 ---
 
 ## 🛠 Arquitetura & Paradigmas  
-![OOP](https://img.shields.io/badge/-💠%20OOP-007ACC?style=flat&logo=java&logoColor=white)  ![Functional Programming](https://img.shields.io/badge/-Functional%20Programming-007ACC?style=flat&logo=haskell&logoColor=white)  ![SOLID](https://img.shields.io/badge/-🧩%20SOLID%20Principles-007ACC?style=flat&logoColor=white) ![Design Patterns](https://img.shields.io/badge/-⚙️%20Design%20Patterns-4B0082?style=flat&logoColor=white)
+[![Functional Programming](https://img.shields.io/badge/-λ%20Functional%20Programming-8A2BE2?style=for-the-badge)](link) [![OOP](https://img.shields.io/badge/-🧩%20OOP-007ACC?style=for-the-badge)](link)
+[![SOLID](https://img.shields.io/badge/-🔶%20SOLID%20PRINCIPLES-007ACC?style=for-the-badge)](link)
+[![Design Patterns](https://img.shields.io/badge/-🎭%20Design%20Patterns-4B0082?style=for-the-badge)](link)
 
 
 ---
