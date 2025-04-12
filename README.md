@@ -34,9 +34,11 @@ for lista in tecnologias:
             print(f'{chave}:{valor}')
 ```
 
-### ⚙️ Backend & Frameworks  
+### ⚙️ Backend & Frameworks  ❤️
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-**Django** | **DjangoREST** | **RXJS**
 
 ---
 
