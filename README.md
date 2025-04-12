@@ -43,11 +43,8 @@ for lista in tecnologias:
 ---
 
 ## 🛠 Arquitetura & Paradigmas  
+![OOP](https://img.shields.io/badge/-💠%20OOP-007ACC?style=flat&logo=java&logoColor=white)  ![Functional Programming](https://img.shields.io/badge/-Functional%20Programming-007ACC?style=flat&logo=haskell&logoColor=white)  ![SOLID](https://img.shields.io/badge/-🧩%20SOLID%20Principles-007ACC?style=flat&logoColor=white) ![Design Patterns](https://img.shields.io/badge/-⚙️%20Design%20Patterns-4B0082?style=flat&logoColor=white)
 
-🔹 **Programação Orientada a Objetos (OOP)**  
-🔹 **Programação Funcional**  
-🔹 **Princípios SOLID**  
-🔹 **Design Patterns**  
 
 ---
 
