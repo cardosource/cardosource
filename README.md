@@ -41,11 +41,15 @@ for lista in tecnologias:
 
 ---
 
-## 🛠 Arquitetura & Paradigmas  
-[![Functional Programming](https://img.shields.io/badge/-λ%20Functional%20Programming-8A2BE2?style=for-the-badge)](link) [![OOP](https://img.shields.io/badge/-🧩%20OOP-007ACC?style=for-the-badge)](link)
-[![SOLID](https://img.shields.io/badge/-🔶%20SOLID%20PRINCIPLES-007ACC?style=for-the-badge)](link)
-[![Design Patterns](https://img.shields.io/badge/-🎭%20Design%20Patterns-4B0082?style=for-the-badge)](link)
+### 🛠 Arquitetura & Paradigmas  
+![Functional Programming](https://img.shields.io/badge/-λ%20Functional%20Programming-8A2BE2?style=for-the-badge) ![OOP](https://img.shields.io/badge/-🧩%20OOP-007ACC?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/-🔶%20SOLID%20PRINCIPLES-007ACC?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/-🎭%20Design%20Patterns-4B0082?style=for-the-badge)
 
+---
+
+ ### 🚀 Ferramentas e Infraestrutura                                 
+![Docker Kubernetes](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)  ![Git Lab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 
 ---
 
