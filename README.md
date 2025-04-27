@@ -1,5 +1,7 @@
 
-### Backend Developer | Mathematics Student | Open Source Enthusiast
+
+
+### Backend Developer | Mathematics Student | Open Source Enthusiast <img src="https://github.com/user-attachments/assets/f20d7337-703d-48f6-a65e-9806e75c16bf" alt="octocat" width="80" style="vertical-align: middle;"/>
 
 Estudante de matemática e desenvolvedor  backend. otimização de algoritmos, estruturas de dados e arquitetura de software.  
 
