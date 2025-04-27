@@ -1,5 +1,5 @@
 
-###  Programador Backend | Estudante de Matemática | Entusiasta Open Source  
+### Backend Developer | Mathematics Student | Open Source Enthusiast
 
 Estudante de matemática e desenvolvedor  backend. otimização de algoritmos, estruturas de dados e arquitetura de software.  
 
