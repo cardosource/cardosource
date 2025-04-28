@@ -1,7 +1,7 @@
 
 
 
-### Backend Developer | Mathematics Student | Open Source Enthusiast <img src="https://github.com/user-attachments/assets/f20d7337-703d-48f6-a65e-9806e75c16bf" alt="octocat" width="80" style="vertical-align: middle;"/>
+### Backend Developer | Mathematics Student | Open Source Enthusiast <img src="https://github.com/user-attachments/assets/f20d7337-703d-48f6-a65e-9806e75c16bf" alt="octocat" width="60" style="vertical-align: middle;"/>
 
 ---
 
