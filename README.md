@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologias 
+## 🚀 Technologies 
 ```python
 tecnologias = [
     [
