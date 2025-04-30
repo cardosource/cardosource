@@ -40,7 +40,7 @@ for lista in tecnologias:
 
 ---
 
-### 🛠 Arquitetura & Paradigmas  
+### 🛠 Architecture & Paradigms
 ![Functional Programming](https://img.shields.io/badge/-λ%20Functional%20Programming-8A2BE2?style=for-the-badge) ![OOP](https://img.shields.io/badge/-🧩%20OOP-007ACC?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/-🔶%20SOLID%20PRINCIPLES-007ACC?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/-🎭%20Design%20Patterns-4B0082?style=for-the-badge)
