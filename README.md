@@ -52,11 +52,9 @@ for lista in tecnologias:
 
 ---
 
-## 📚 Aprendendo & Explorando  
-- 📊 ## 📚 Aprendendo & Explorando  
-- 📊 Matemática aplicada à computação (uma área que me interessa particularmente)  
-- 🔧 Desenvolvimento Backend com foco em eficiência e escalabilidade  
-- 🎮 Desenvolvimento de jogos retrô e pixel art  
+## 📚 Learning & Exploring 
+- 🔧 Backend development with a focus on efficiency and scalability  
+- 🎮 Retro and pixel art game development
 
 ---
 
