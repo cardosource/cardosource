@@ -47,7 +47,7 @@ for lista in tecnologias:
 
 ---
 
- ### 🚀 Ferramentas e Infraestrutura                                 
+ ### 🚀 Tools and Infrastructure                              
 ![Docker Kubernetes](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)  ![Git Lab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 
 ---
