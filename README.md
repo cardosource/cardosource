@@ -20,7 +20,7 @@ tecnologias = [
     ],
     [
         {"fig": "Figma"},
-        {"css": "CSS3"},
+        {"css": "tailwindcss"},
         {"sass": "SASS"},
         {"html": "HTML"}
     ]
